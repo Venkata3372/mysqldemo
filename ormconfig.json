@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "username": "root",
+    "password": "Venkata7202",
+    "database": "bhavaproduct",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+}
